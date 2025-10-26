@@ -63,3 +63,10 @@ form button {
     font-weight: bold;
     font-size: 15px;
 }
+
+@media (max-width: 500px) {
+    .login {
+        width: 100%;
+        height: auto;
+    }
+}
